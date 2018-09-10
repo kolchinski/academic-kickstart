@@ -34,12 +34,12 @@ weight = 5
 +++
 
 # Biography
-I'm currently working on my PhD at Stanford University, advised by Dan Schwartz. My interests center around artificial
+I'm currently a PhD student at Stanford University, advised by Dan Schwartz. My interests center around artificial
 intelligence and education, and more specifically natural language processing, reinforcement learning, and feedback
 targeting.
 
 In the past, I've been a product manager at Google and a software engineer, as well as a consultant in data science and
 product management.
 
-Outside of work, I enjoy climbing and skiing, surfing, playing music and reading.
+Outside of work, I enjoy climbing and skiing, surfing, sailing, playing music and reading.
 
