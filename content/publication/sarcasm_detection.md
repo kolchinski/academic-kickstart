@@ -18,7 +18,7 @@ authors = ["Y. Alex Kolchinski", "Christopher Potts"]
 publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "Emperical Methods in Natural Language Processing (EMNLP)"
+publication = "Empirical Methods in Natural Language Processing (EMNLP)"
 
 
 # Abstract and optional shortened version.
